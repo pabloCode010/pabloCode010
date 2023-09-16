@@ -1,8 +1,8 @@
-<h1 align="center">¡Hola! 👋 Soy Pablo Arturo || AlgorithmXplorer </h1>
+<h1 align="center">¡Hii! 👋 I'm Pablo Arturo || AlgorithmXplorer </h1>
 
-¡Saludos! Soy estudiante de Ingeniería Informática, apasionado por la programación y comprometido con el aprendizaje constante. Me gusta explorar diversos temas en el mundo de la tecnología y siempre estoy en busca de oportunidades para crecer.
+Greetings! I am a Computer Engineering (Ingeniería Informática) student, passionate about programming and committed to constant learning. I like to explore various topics in the world of technology and I am always looking for opportunities to grow.
 
-<h3>Lenguajes y herramientas:</h3>
+<h3>Languages ​​and tools:</h3>
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -28,26 +28,26 @@
   </a> 
 </p>
 
-## Proyectos
+## Projects
 
-Aquí te presento algunos de los proyectos en los que he trabajado:
+Here I present some of the projects I have worked on:
 
 ### Files Server 📂🌐
 
-Este proyecto se trata de un <a href="https://github.com/AlgorithmXplorer/files-storage">servidor</a> diseñado para guardar archivos y luego descargarlos. La inspiración detrás de esta idea surgió cuando deseaba practicar estructuras de datos; por lo tanto, implementé una cola para encolar los archivos en el orden en que se recibieron y escribirlos en segundo plano.
+This project is about a <a href="https://github.com/AlgorithmXplorer/files-storage">server</a> designed to save files and then download them. The inspiration behind this idea came when I wanted to practice data structures; therefore, I implemented a queue to enqueue the files in the order they were received and write them in the background.
 
-Para construir el servidor, utilicé Node.js y Express. Además, para facilitar la comunicación entre el servidor y el usuario, desarrollé una interfaz de línea de comandos <a href="https://github.com/AlgorithmXplorer/cli-files-storage">(CLI)</a> que permite interactuar mediante comandos. ¡Explora y comparte archivos de manera sencilla! 🚀📁
+To build the server, I used Node.js and Express. Additionally, to facilitate communication between the server and the user, I developed a command line interface <a href="https://github.com/AlgorithmXplorer/cli-files-storage">(CLI)</a> that allows you to interact using commands. Explore and share files easily! 🚀📁
 
 ### QR Api 📷✨
-Esta <a href="https://github.com/AlgorithmXplorer/qr-api">api</a> genera codigos Qr, de acuero a los parametros proporcionados, la elabore usando express.js y un modulo llamado qrCode
+This <a href="https://github.com/AlgorithmXplorer/qr-api">api</a> generates Qr codes, according to the provided parameters, it is created using express.js and a module called qrCode
 
-Los parameros que recibe son
-- text: el texto que estara en el codigo
-- darkColor: color oscuro para el fondo, aunque no necesariamente tiene que ser oscuro
-- lightColor: color para el codigo
-- type: tipo de imagen, solo png o svg
+The parameters you receive are
+- text: the text that will be in the code
+- darkColor: dark color for the background, although it does not necessarily have to be dark
+- lightColor: color for the code
+- type: image type, png or svg only
   
-Ejemplo
+Example
 - https://qr-api-alpha.vercel.app/api/qr-code/create?text=hello&darkColor=023047&lightColor=000000&type=png
 
 ## Contacto
