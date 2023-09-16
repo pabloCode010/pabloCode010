@@ -50,8 +50,8 @@ The parameters you receive are
 Example
 - https://qr-api-alpha.vercel.app/api/qr-code/create?text=hello&darkColor=023047&lightColor=000000&type=png
 
-## Contacto
-Si deseas contactarme, no dudes en enviarme un mensaje a través de mi correo -> algorithmxplorer@gmail.com o en cualquiera de estas plataformas.
+## Contact
+If you want to contact me, do not hesitate to send me a message through my email -> algorithmxplorer@gmail.com or on any of these platforms.
 
 <p align="left">
   <a href="https://app.codesignal.com/profile/algorithmxplore" target="_blank">
@@ -71,4 +71,4 @@ Si deseas contactarme, no dudes en enviarme un mensaje a través de mi correo ->
   </a>
 </p>
 
-¡Gracias por visitar mi perfil y por tu interés en mis proyectos!
+Thank you for visiting my profile and for your interest in my projects!
