@@ -47,7 +47,7 @@ The parameters you receive are
 - lightColor: color for the code
 - type: image type, png or svg only
   
-Example:
+Examples:
 - https://qr-api-alpha.vercel.app/api/qr-code/create?text=hello&darkColor=d90429&lightColor=edf2f4&type=png
 - https://qr-api-alpha.vercel.app/api/qr-code/create?text=hello&darkColor=d90429&lightColor=edf2f4&type=svg
 
