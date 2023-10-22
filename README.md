@@ -1,4 +1,4 @@
-<h1 align="center">¡Hii! 👋 I'm Pablo Arturo || AlgorithmXplorer </h1>
+<h1 align="center">¡Hii! 👋 I'm Pablo Arturo || Pablo Code </h1>
 
 Greetings! I am a Computer Engineering (Ingeniería Informática) student, passionate about programming and committed to constant learning. I like to explore various topics in the world of technology and I am always looking for opportunities to grow.
 
