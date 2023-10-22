@@ -55,7 +55,6 @@ Download:
 - https://qr-api-alpha.vercel.app/api/qr-code/create?text=hello&darkColor=d90429&lightColor=edf2f4&type=svg&download=true
 
 ## Contact
-If you want to contact me, do not hesitate to send me a message through my email -> algorithmxplorer@gmail.com or on any of these platforms.
 
 <p align="left">
   <a href="https://app.codesignal.com/profile/algorithmxplore" target="_blank">
