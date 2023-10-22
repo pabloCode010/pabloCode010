@@ -57,16 +57,16 @@ Download:
 ## Contact
 
 <p align="left">
-  <a href="https://app.codesignal.com/profile/pablo_code" target="_blank">
+  <a href="https://app.codesignal.com/profile/pablocode010" target="_blank">
     <img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rix7ga9w0ceonphikieg" alt="CodeSignal" height="50" width="70" />
   </a>
   <a href="https://www.linkedin.com/in/pablo-arturo-jim%C3%A9nez-de-la-cruz-35a860270" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="50" width="70" />
   </a>
-  <a href="https://www.hackerrank.com/AlgorithmXplore" target="_blank">
+  <a href="https://www.hackerrank.com/profile/pablocode010" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="70" />
   </a>
-  <a href="https://leetcode.com/AlgorithmXplore" target="_blank">
+  <a href="https://leetcode.com/pabloCode010/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="70" />
   </a>
   <a href="https://www.tiktok.com/@algorithmxplorer?lang=es" target="_blank">
