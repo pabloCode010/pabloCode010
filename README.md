@@ -32,14 +32,8 @@ Greetings! I am a Computer Engineering (Ingeniería Informática) student, passi
 
 Here I present some of the projects I have worked on:
 
-### Files Server 📂🌐
-
-This project is about a <a href="https://github.com/AlgorithmXplorer/files-storage">server</a> designed to save files and then download them. The inspiration behind this idea came when I wanted to practice data structures; therefore, I implemented a queue to enqueue the files in the order they were received and write them in the background.
-
-To build the server, I used Node.js and Express. Additionally, to facilitate communication between the server and the user, I developed a command line interface <a href="https://github.com/AlgorithmXplorer/cli-files-storage">(CLI)</a> that allows you to interact using commands.🚀📁
-
 ### QR Api 📷✨
-This <a href="https://github.com/AlgorithmXplorer/qr-api">api</a> generates Qr codes, according to the provided parameters, it is created using express.js and a module called qrCode
+This <a href="https://github.com/PabloCode010/qr-api">api</a> generates Qr codes, according to the provided parameters, it is created using express.js and a module called qrCode
 
 The parameters you receive are
 - text: the text that will be in the code
