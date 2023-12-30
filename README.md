@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Pablo Arturo, estudiante de cuarto semestre en Ingeniería Informática. Apasionado por la tecnología, siempre busco aprender cosas nuevas y disfruto programar para lograr una mejora continua. 🚀 ¡Programemos e innovemos juntos! 💻✨
 
-## 🛠 Lenguajes y Herramientas
+### 🛠 Lenguajes y Herramientas
 
 [![Python](https://img.shields.io/badge/Python-265176?style=for-the-badge&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-e4a126?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -13,24 +13,24 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 
 
-## 📚 Explorando
+### 📚 Explorando
 
-- 👨‍💻 **Aprendiendo Golang**
-- 🚀 **Próximamente, Gin**
-- 📚 **Leyendo "Computer Systems: A Programmer's Perspective"**
-- 💡 **Resolviendo ejercicios de código**
-- 🌐 **Aprendiendo continuamente sobre algoritmos y estructuras de datos**
-- 🎥 **Comparto videos en TikTok**
+- 👨‍💻 Aprendiendo Golang
+- 🚀 Próximamente, Gin
+- 📚 Leyendo "Computer Systems: A Programmer's Perspective"
+- 💡 Resolviendo ejercicios de código
+- 🌐 Aprendiendo continuamente sobre algoritmos y estructuras de datos
+- 🎥 Comparto videos en TikTok
 
-## Mis Proyectos
+### Mis Proyectos
 
-- ### 📷✨ QR API
+- #### 📷✨ QR API
   Un generador dinámico de códigos QR. Para obtener información detallada, visita el [repositorio](https://github.com/PabloCode010/qr-api).
 
 
-<h2 align="center" >
+<h3 align="center" >
 📬 Conecta Conmigo
-</h2>
+</h3>
 
 
 <p align="center" >
