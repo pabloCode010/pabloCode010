@@ -1,71 +1,55 @@
-<h1 align="center">¡Hii! 👋 I'm Pablo Arturo || Pablo Code </h1>
+## 🚀 Sobre Mí
 
-Greetings! I am a Computer Engineering (Ingeniería Informática) student, passionate about programming and committed to constant learning. I like to explore various topics in the world of technology and I am always looking for opportunities to grow.
+¡Hola! Soy Pablo Arturo, estudiante de cuarto semestre en Ingeniería Informática. Apasionado por la tecnología, siempre busco aprender cosas nuevas y disfruto programar para lograr una mejora continua. 🚀 ¡Programemos e innovemos juntos! 💻✨
 
-<h3>Languages ​​and tools:</h3>
+## 🛠 Lenguajes y Herramientas
 
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-  </a>  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
-  </a> 
-</p>
+[![Python](https://img.shields.io/badge/Python-265176?style=for-the-badge&logo=python)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-e4a126?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MySQL](https://img.shields.io/badge/MySQL-2b5d80?style=for-the-badge)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/Git-221e1f?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-010101?style=for-the-badge&logo=express)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 
-## Projects
 
-Here I present some of the projects I have worked on:
+## 📚 Explorando
 
-### QR Api 📷✨
-This <a href="https://github.com/PabloCode010/qr-api">api</a> generates Qr codes, according to the provided parameters, it is created using express.js and a module called qrCode
+- 👨‍💻 **Aprendiendo Golang**
+- 🚀 **Próximamente, Gin**
+- 📚 **Leyendo "Computer Systems: A Programmer's Perspective"**
+- 💡 **Resolviendo ejercicios de código**
+- 🌐 **Aprendiendo continuamente sobre algoritmos y estructuras de datos**
+- 🎥 **Comparto videos en TikTok**
 
-The parameters you receive are
-- text: the text that will be in the code
-- darkColor: dark color for the background, although it does not necessarily have to be dark
-- lightColor: color for the code
-- type: image type, png or svg only
-  
-Examples:
-- https://qr-api-alpha.vercel.app/api/qr-code/create?text=hello&darkColor=d90429&lightColor=edf2f4&type=png
-- https://qr-api-alpha.vercel.app/api/qr-code/create?text=hello&darkColor=d90429&lightColor=edf2f4&type=svg
+## Mis Proyectos
 
-Download:
-- https://qr-api-alpha.vercel.app/api/qr-code/create?text=hello&darkColor=d90429&lightColor=edf2f4&type=svg&download=true
+- ### 📷✨ QR API
+  Un generador dinámico de códigos QR. Para obtener información detallada, visita el [repositorio](https://github.com/PabloCode010/qr-api).
 
-## Contact
 
-<p align="left">
+<h2 align="center" >
+📬 Conecta Conmigo
+</h2>
+
+
+<p align="center" >
   <a href="https://app.codesignal.com/profile/pablocode010" target="_blank">
-    <img align="center" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rix7ga9w0ceonphikieg" alt="CodeSignal" height="50" width="70" />
+    <img src="https://img.shields.io/badge/CodeSignal-265176?style=for-the-badge&logo=codesignal" alt="CodeSignal" />
   </a>
   <a href="https://www.linkedin.com/in/pablo-arturo-jim%C3%A9nez-de-la-cruz-35a860270" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="50" width="70" />
+    <img src="https://img.shields.io/badge/LinkedIn-e4a126?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.hackerrank.com/profile/pablocode010" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="70" />
+    <img src="https://img.shields.io/badge/HackerRank-2b5d80?style=for-the-badge&logo=hackerrank" alt="HackerRank" />
   </a>
   <a href="https://leetcode.com/pabloCode010/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="70" />
+    <img src="https://img.shields.io/badge/LeetCode-221e1f?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
-  <a href="https://www.tiktok.com/@algorithmxplorer?lang=es" target="_blank">
-    <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/463/original/tiktok-logo-tikok-icon-transparent-tikok-app-logo-free-png.png" alt="TikTok" height="80" width="80" />
+  <a href="https://www.tiktok.com/@pablocode010?lang=es" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-333333?style=for-the-badge&logo=tiktok" alt="TikTok" />
   </a>
 </p>
 
-Thank you for visiting my profile and for your interest in my projects!
+---
+> "Si piensas que los usuarios de tus programas son idiotas, sólo los idiotas usarán tus programas." - Linus Torvalds
