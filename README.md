@@ -27,6 +27,9 @@
 - #### 📷✨ QR API
   Un generador dinámico de códigos QR. Para obtener información detallada, visita el [repositorio](https://github.com/PabloCode010/qr-api).
 
+- #### 🔗✨ URL SHORTENER
+  Un acortador de URL eficiente para reducir enlaces muy largos, visita el [repositorio](https://github.com/pabloCode010/url-shortener)
+
 
 <h3 align="center" >
 📬 Conecta Conmigo
