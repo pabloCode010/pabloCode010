@@ -44,7 +44,6 @@ Hello, my name is Pablo, I am a Informatics Engineering student, I like this wor
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="43" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="43" alt="qt logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="43" alt="ubuntu logo"  />
   <img width="12" />
