@@ -50,9 +50,30 @@ Hello, my name is Pablo, I am a Informatics Engineering student, I like this wor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="43" alt="vscode logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloCode010&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=pabloCode010&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
+</div>
+
+---
+<div>
+  <a>
+    <img src="https://github.com/pabloCode010/pabloCode010/assets/140468507/3d090b07-a620-4355-b2f6-1bce28b60b55" height="45px">
+  </a>
+  <img width="12" />
+  <a>
+    <img src="https://github.com/pabloCode010/pabloCode010/assets/140468507/9fcbf37d-b443-434e-9040-c6db55ac98d5" height="45px">
+  </a>
+  <img width="12" />
+  <a>
+    <img src="https://github.com/pabloCode010/pabloCode010/assets/140468507/14e76594-365e-458c-948a-995a610e41cf" height="45px">
+  </a>
+  <img width="12" />
+  <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" height="45px">
+  </a>
+  <img width="12" />
+  <a>
+    <img src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/037/100/original/CodeSignal_Symbol_RGB.png?1665521048" height="45px">
+  </a>
 </div>
