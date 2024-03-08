@@ -63,23 +63,19 @@ Hello, my name is Pablo, I am a Informatics Engineering student, I like this wor
 ---
 
 <div align="right">
-  <a>
+  <a href="https://www.linkedin.com/in/pablo-arturo-jimenez-de-la-cruz-1391812b8/">
     <img src="https://github.com/pabloCode010/pabloCode010/assets/140468507/3d090b07-a620-4355-b2f6-1bce28b60b55" height="45px">
   </a>
   <img width="12" />
-  <a>
+  <a href="https://www.instagram.com/pabloarturo.jimenez?igsh=OHE3c3p6ZjhyZGkw">
     <img src="https://github.com/pabloCode010/pabloCode010/assets/140468507/9fcbf37d-b443-434e-9040-c6db55ac98d5" height="45px">
   </a>
   <img width="12" />
-  <a>
-    <img src="https://github.com/pabloCode010/pabloCode010/assets/140468507/14e76594-365e-458c-948a-995a610e41cf" height="45px">
-  </a>
-  <img width="12" />
-  <a>
+  <a href="https://leetcode.com/pabloCode010/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" height="45px">
   </a>
   <img width="12" />
-  <a>
+  <a href="https://app.codesignal.com/profile/pablocode010">
     <img src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/037/100/original/CodeSignal_Symbol_RGB.png?1665521048" height="45px">
   </a>
 </div>
