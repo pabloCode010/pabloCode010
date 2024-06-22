@@ -16,7 +16,7 @@
 
 ## About Me
 
-<p align="left">Hello, my name is Pablo, I study computer science at the university, I like to keep constantly learning.</p>
+<p align="left">Hello, my name is Pablo, I study Informatics at the university, I like to keep constantly learning.</p>
 
 ### 🛠 Language and tools:
 
