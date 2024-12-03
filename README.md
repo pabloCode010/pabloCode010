@@ -1,4 +1,5 @@
-<img width="100%" src="https://github.com/user-attachments/assets/94ac9435-c916-4b34-9ac1-50fadfea3ad7" />
+<img width="100%" src="https://github.com/user-attachments/assets/877562ae-d947-4ccc-9610-89f40800683d" />
+
 
 # 💫 About Me:
 Hi, my name is Pablo, I am currently studying Informatics Engineering at university 🎓
